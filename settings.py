@@ -16,10 +16,10 @@ NEWSPIDER_MODULE = 'regionCrawler.spiders'
 
 
 #odb
-MYSQL_HOST = "103.244.235.2"
-MYSQL_USER = "luckycat"
-MYSQL_PASSWD = "9zctv8qWjzRvPxhY"
-MYSQL_DB = "luckycat"
+MYSQL_HOST = "*"
+MYSQL_USER = "*"
+MYSQL_PASSWD = "*"
+MYSQL_DB = "*"
 MYSQL_CHARSER = "utf8"
 
 ITEM_PIPELINES = {
